@@ -1,6 +1,8 @@
 # s13arrowfunctions
 Función Flecha
 
+const X = ( ) => { ... } X ( )
+
 Una expresión de función flecha es una alternativa compacta a una expresión de función tradicional, pero es limitada y no se puede utilizar en todas las situaciones.
 
 Diferencias y limitaciones:
